@@ -11,7 +11,7 @@ Version: 1.0
 
 
 
-// Note: this will force Cart to $100
+// Note: this will force Cart to $1
  
 add_action( 'woocommerce_cart_calculate_fees','bealinawaz_force_cart_to_1' );
  
